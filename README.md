@@ -1,8 +1,5 @@
 # MiPhantDBLite
 
-> [!NOTE]
-> This repository has been migrated to Codeberg, please see: https://codeberg.org/bluice/miphantdblite
-
 **MiPhantDBLite** é uma biblioteca **leve, minimalista e fluente escrita em PHP** para trabalhar com **SQLite3**, focada em **simplicidade**, **baixo consumo de recursos** e **controle total do SQL gerado**.
 
 Ela é a versão **Lite** do MiPhantDB, pensada para cenários onde **SQLite** é a melhor escolha: aplicações desktop, CLIs, sistemas embarcados, ferramentas locais, cache persistente e pequenos bancos de dados.
